@@ -1,0 +1,180 @@
+,AwardNumber,County,Funds_MDollars,Year
+0,2140999,"Champaign, Illinois",1.031665,2021
+1,2241361,"Centre, Pennsylvania",0.164214,2022
+2,1838901,"Travis, Texas",1.2,2018
+3,2323050,"Socorro, New Mexico",0.149999,2023
+4,2325631,"Hillsborough, Florida",1.488568,2023
+5,2303284,"Tuscaloosa, Alabama",0.15,2023
+6,2306603,"Fulton, Georgia",2.0,2023
+7,1951864,"Sedgwick, Kansas",1.122749,2020
+8,1951880,"Suffolk, New York",1.724126,2020
+9,1952792,"Orange, Florida",1.233,2020
+10,2327014,"Allegheny, Pennsylvania",0.15,2023
+11,2305476,"Miami-Dade, Florida",0.499549,2023
+12,2228492,"Monongalia, West Virginia",0.049812,2022
+13,1831795,"Mecklenburg, North Carolina",2.296958,2018
+14,1951890,"Middlesex, New Jersey",1.516,2020
+15,2321506,"Cumberland, Maine",0.996977,2023
+16,2223449,"Washington, D.C.",0.3,2022
+17,2301552,"Jackson, Missouri",0.716986,2022
+18,2322023,"Santa Clara, California",1.0,2023
+19,2125530,"DeKalb, Georgia",0.75,2021
+20,2310515,"King, Washington",1.66,2023
+21,1942836,"Albemarle, Virginia",0.442568,2020
+22,2317235,"Barnstable, Massachusetts",1.974185,2023
+23,2125561,"Philadelphia, Pennsylvania",0.77,2021
+24,1952007,"Story, Iowa",1.532,2020
+25,2228444,"Orange, Florida",0.05,2022
+26,2025641,"Waller, Texas",0.340402,2020
+27,2301858,"Tompkins, New York",0.249021,2023
+28,2124857,"Washtenaw, Michigan",1.422237,2022
+29,1952085,"Allegheny, Pennsylvania",2.013764,2020
+30,1831547,"Albany, New York",1.510765,2018
+31,2228562,"Hillsborough, Florida",0.049999,2022
+32,1737443,"Albany, New York",1.35722,2017
+33,1737591,"Tippecanoe, Indiana",3.980061,2018
+34,2218809,"New York, New York",1.872,2023
+35,1952096,"Middlesex, New Jersey",2.316,2020
+36,2125484,"Story, Iowa",1.75,2021
+37,2124858,"Alachua, Florida",0.149999,2021
+38,1837245,"Washtenaw, Michigan",0.5,2019
+39,2125246,"Maricopa, Arizona",0.72,2021
+40,2025234,"Montgomery, Ohio",0.314005,2020
+41,1837022,"New York, New York",0.24,2018
+42,1831347,"Washtenaw, Michigan",1.670961,2018
+43,2224014,"Coconino, Arizona",1.929132,2022
+44,1831140,"Hennepin, Minnesota",1.750856,2018
+45,2311405,"King, Washington",2.0,2023
+46,1952243,"El Paso, Texas",1.499132,2020
+47,2125411,"Cook, Illinois",1.187723,2021
+48,2238208,"Monroe, New York",1.5,2023
+49,1751483,"New Haven, Connecticut",0.4,2018
+50,2244837,"Richland, South Carolina",0.14998,2023
+51,2133337,"Milwaukee, Wisconsin",1.0,2021
+52,2125390,"Fulton, Georgia",2.532,2021
+53,1951818,"Fulton, Georgia",1.51305,2020
+54,1952008,"Salt Lake, Utah",1.24758,2020
+55,1952011,"Davidson, Tennessee",2.266898,2020
+56,2228584,"Wayne, Michigan",0.049999,2022
+57,2125326,"Suffolk, Massachusetts",1.5,2021
+58,2228687,"St. Joseph, Indiana",0.05,2022
+59,1951924,"Prince George's, Maryland",2.39635,2020
+60,1750102,"Prince George's, Maryland",0.500003,2018
+61,2125283,"Pickens, South Carolina",0.15,2021
+62,2313104,"Orange, California",2.0,2023
+63,2133352,"Harris, Texas",1.199994,2021
+64,2125389,"Champaign, Illinois",0.149878,2021
+65,1951745,"Norfolk, Virginia",1.583427,2020
+66,2228864,"Davidson, Tennessee",0.583874,2022
+67,2233912,"Cook, Illinois",2.0,2023
+68,2228490,"Suffolk, New York",0.05,2022
+69,2228345,"Washtenaw, Michigan",0.049969,2022
+70,2133342,"Fulton, Georgia",1.199999,2021
+71,1952196,"Travis, Texas",1.216,2020
+72,1831475,"Maricopa, Arizona",1.5,2018
+73,2228757,"Story, Iowa",0.05,2022
+74,2018203,"Harris, Texas",0.03,2020
+75,2228468,"Boulder, Colorado",0.05,2022
+76,2133308,"Leon, Florida",0.734128,2021
+77,2125101,"King, Washington",1.49914,2021
+78,2133302,"Travis, Texas",0.985401,2021
+79,1762034,"Douglas, Nebraska",0.999988,2018
+80,2125426,"Story, Iowa",0.15,2021
+81,2125600,"Wake, North Carolina",2.018,2021
+82,2125447,"Wake, North Carolina",0.15,2021
+83,1922782,"Alachua, Florida",1.99977,2019
+84,2226880,"Story, Iowa",1.216,2023
+85,1952038,"Washtenaw, Michigan",2.116,2020
+86,2231874,"Maricopa, Arizona",0.149999,2023
+87,1952180,"New York, New York",1.499038,2020
+88,2228957,"Middlesex, Massachusetts",0.049611,2022
+89,2230180,"Middlesex, Massachusetts",2.495019,2022
+90,2228343,"Washtenaw, Michigan",0.049999,2022
+91,2228275,"Washtenaw, Michigan",0.049962,2022
+92,1736596,"King, Washington",0.5,2017
+93,1942330,"Albany, New York",0.411977,2020
+94,2228568,"New York, New York",0.049991,2022
+95,2226123,"New York, New York",0.394465,2022
+96,2126633,"Harris, Texas",0.149999,2021
+97,1952045,"Story, Iowa",1.53183,2020
+98,2125375,"Philadelphia, Pennsylvania",0.15,2022
+99,2313814,"Suffolk, Massachusetts",0.320556,2022
+100,1952225,"San Diego, California",0.165999,2020
+101,2229833,"Washington, D.C.",0.299636,2022
+102,1943035,"Fayette, Kentucky",0.548987,2020
+103,2228614,"Santa Cruz, California",0.05,2022
+104,2126504,"Bexar, Texas",0.15,2021
+105,2125548,"Riley, Kansas",0.15,2021
+106,1845969,"Story, Iowa",0.51162,2019
+107,2126045,"Brazos, Texas",1.5,2021
+108,2125654,"Orange, California",1.21537,2021
+109,2133336,"Norfolk, Virginia",1.1999,2021
+110,2124996,"King, Washington",0.765999,2021
+111,2125196,"Salt Lake, Utah",0.149247,2021
+112,2243646,"Cuyahoga, Ohio",0.146676,2023
+113,2243588,"Washoe, Nevada",0.147035,2023
+114,2125985,"Brazos, Texas",1.498793,2022
+115,2133391,"Orange, California",1.199996,2021
+116,2125288,"Knox, Tennessee",0.15,2021
+117,2133279,"Houghton, Michigan",1.199877,2021
+118,1952247,"Orange, California",1.499943,2020
+119,2229439,"Cleveland, Oklahoma",0.15,2022
+120,2231710,"Knox, Tennessee",0.15,2023
+121,2228610,"Suffolk, Massachusetts",0.05,2022
+122,2126701,"Lubbock, Texas",0.149922,2021
+123,2125319,"Los Angeles, California",1.422463,2021
+124,2228377,"King, Washington",0.049999,2022
+125,1737453,"Pima, Arizona",1.054079,2017
+126,2234081,"Los Angeles, California",0.14737,2023
+127,2228370,"Davidson, Tennessee",0.05,2022
+128,2133309,"Los Angeles, California",1.197612,2021
+129,1652544,"Durham, North Carolina",0.530339,2017
+130,2228679,"Fulton, Georgia",0.05,2022
+131,2225890,"Davidson, Tennessee",2.25,2022
+132,2228652,"Worcester, Massachusetts",0.049999,2022
+133,1931690,"Washington, D.C.",1.619243,2019
+134,1948550,"Santa Clara, California",0.169201,2020
+135,2228731,"Brazos, Texas",0.049998,2022
+136,1831755,"Suffolk, Massachusetts",2.09267,2018
+137,2228661,"Travis, Texas",0.05,2022
+138,2228314,"Centre, Pennsylvania",0.05,2022
+139,2228311,"McLennan, Texas",0.05,2022
+140,2228517,"Centre, Pennsylvania",0.049457,2022
+141,2228607,"Davidson, Tennessee",0.05,2022
+142,2230036,"Suffolk, Massachusetts",2.499464,2022
+143,2231557,"Tarrant, Texas",2.399762,2022
+144,2133384,"Douglas, Kansas",1.199999,2021
+145,2125633,"Missoula, Montana",0.149998,2021
+146,1831918,"Orange, California",2.099382,2018
+147,1743772,"Davidson, Tennessee",4.0,2017
+148,2228035,"Delaware, Pennsylvania",0.149305,2022
+149,2125264,"Suffolk, Massachusetts",0.15,2021
+150,2125626,"Champaign, Illinois",2.01778,2021
+151,2125183,"Hampshire, Massachusetts",0.146941,2021
+152,1952223,"Boulder, Colorado",1.816,2020
+153,2228292,"Santa Clara, California",0.049974,2022
+154,2125350,"Allegheny, Pennsylvania",0.15,2021
+155,2133379,"Washington, D.C.",1.2,2021
+156,2230636,"Benton, Arkansas",2.5,2022
+157,2125279,"Alameda, California",0.149974,2021
+158,1952063,"Santa Cruz, California",1.515992,2020
+159,2133356,"Tompkins, New York",1.199949,2021
+160,2106594,"New York, New York",0.15,2020
+161,2125147,"Suffolk, New York",0.15,2021
+162,1737483,"Suffolk, New York",0.499999,2017
+163,1951974,"Suffolk, New York",0.15,2020
+164,2025022,"Tuscaloosa, Alabama",0.25,2020
+165,1952719,"King, Washington",0.149014,2020
+166,1951896,"Douglas, Nevada",0.140421,2020
+167,2125220,"Middlesex, Massachusetts",0.149998,2021
+168,2125516,"Middlesex, Massachusetts",0.15,2021
+169,1831698,"Erie, New York",2.0,2018
+170,2213915,"Santa Barbara, California",0.15,2021
+171,1952050,"Pickens, South Carolina",2.499967,2020
+172,2125087,"Cook, Illinois",2.018,2021
+173,2228447,"King, Washington",0.05,2022
+174,2125427,"Story, Iowa",0.149437,2021
+175,2125460,"Alachua, Florida",1.5,2021
+176,1818942,"Cuyahoga, Ohio",0.263517,2018
+177,2125616,"Phelps, Missouri",2.054156,2021
+178,2026050,"Los Angeles, California",0.3156,2020
