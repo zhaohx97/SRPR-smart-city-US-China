@@ -1,6 +1,4 @@
 # **Patterns and trajectories of smart city scientific inquiry: Comparative insights from U.S. and China research proposals**
-Yuan Lai and Haoxiang Zhao
-
 This repository documents the data and scripts for the paper under review "Patterns and trajectories of smart city scientific inquiry: Comparative insights from U.S. and China research proposals". The authors are Yuan Lai and Haoxiang Zhao
 
 # Abstract
@@ -8,4 +6,5 @@ The integrated concept of “smart cities” has emerged as a key focus of conte
 
 # File structure
 -Data: result tables.
+
 -Script: scripts.
