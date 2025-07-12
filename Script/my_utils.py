@@ -25,12 +25,16 @@ def ellipse_points(center, width, height, angle, num_points=100):
     ellipse_rotated = np.dot(rotation_matrix, ellipse)
     return ellipse_rotated[0] + center[0], ellipse_rotated[1] + center[1]
 
-def gini_coefficient(x):
-    sorted_x = np.sort(x)
-    n = len(x)
-    cumulative_x = np.cumsum(sorted_x)
-    gini_index = (2 * np.sum((np.arange(1, n+1) / n) * cumulative_x)) / cumulative_x[-1] - (n + 1) / n
-    return gini_index
+def gini_coefficient(values):
+    values = np.sort(values)
+    n = len(values)
+    index = np.arange(1, n + 1)
+    gini_numerator = np.sum((2 * index - n - 1) * values)
+    gini_denominator = n * np.sum(values)
+    if gini_denominator == 0:
+        return 0.0
+    gini = gini_numerator / gini_denominator
+    return gini
 
 
 
