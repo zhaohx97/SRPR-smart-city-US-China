@@ -2,6 +2,11 @@ import pandas as pd
 import numpy as np 
 import matplotlib.pyplot as plt
 
+from openai import OpenAI
+
+from typing import List
+from tqdm import tqdm
+
 
 
 def fit_ellipse_to_polygon(points):
@@ -84,3 +89,35 @@ mapping_dict = {
     'Philadelphia, Pennsylvania': 'Philadelphia, PA',
     'Washtenaw, Michigan':'Washtenaw, MI'
     }
+
+
+
+def feature_extraction(
+    api_key: str,
+    system_prompt: str,
+    abstract_list: List[str],
+    feature_list: List[str],
+    requirements: str,
+    model: str = "gpt-4o",
+    temperature: float = 0.1
+) -> pd.DataFrame:
+    
+    client = OpenAI(api_key = api_key)
+    all_responses = []
+    for abstract in tqdm(abstract_list, desc = "Processing research proposals"):
+        user_prompt = f"""Analyze this research proposal and annotate it according to these {len(feature_list)} dimensions: {feature_list}.
+                          The abstract of this research proposal is: {abstract}
+                          The requirements are as follows: {requirements}"""
+        response = client.chat.completions.create(
+                model = model,
+                temperature = temperature,
+                messages = [{"role": "system", "content": system_prompt},
+                            {"role": "user", "content": user_prompt}]
+        )
+        reply = response.choices[0].message.content.strip()
+        all_responses.append(reply)
+
+    data_rows = [list(map(int, r.replace(' ', '').split(','))) for r in all_responses]
+    df_output = pd.DataFrame(data_rows, columns=feature_list)
+    df_output.insert(0, 'index', range(1, len(df_output) + 1))
+    return df_output
