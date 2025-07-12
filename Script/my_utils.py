@@ -106,8 +106,8 @@ def feature_extraction(
     all_responses = []
     for abstract in tqdm(abstract_list, desc = "Processing research proposals"):
         user_prompt = f"""Analyze this research proposal and annotate it according to these {len(feature_list)} dimensions: {feature_list}.
-                          The abstract of this research proposal is: {abstract}
-                          The requirements are as follows: {requirements}"""
+                          The abstract of this research proposal is: {abstract}.
+                          The requirements are as follows: {requirements}."""
         response = client.chat.completions.create(
                 model = model,
                 temperature = temperature,
